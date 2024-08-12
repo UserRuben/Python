@@ -5,5 +5,4 @@ dm = "Roll a dice!"
 
 print(msg)
 print(dm)
-
 print(np.random.randint(1,20))
